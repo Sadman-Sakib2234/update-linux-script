@@ -1,9 +1,9 @@
 # update-linux-script (v2.0)
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-<img src="	https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
-It is a script written in shell to quickly fully update kali linux.Now after the update it is the latest version of this script the project is stopped
+It is a script written in shell to quickly fully updates debian linux.Now after the update it is the latest version of this script the project is stopped
 
 ## Features
 <ul>
