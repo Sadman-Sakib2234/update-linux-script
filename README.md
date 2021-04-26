@@ -18,7 +18,7 @@ It is a script written in shell to quickly fully updates debian linux.Now after 
 
 ## Run
 ```
-git clone https://github.com/Sadman-Sakib2234/update-linux-linux.git
+git clone https://github.com/Sadman-Sakib2234/update-linux-script.git
 
 cd update-linux-script
 
